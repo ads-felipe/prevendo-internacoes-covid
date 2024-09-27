@@ -1,7 +1,7 @@
 # Previsão de uso de leitos de UTI
 
 <p align="center">
-  <img src="./assets/caseUTI.png" />
+  <img src="./assets/caseUTI_fixed.png" />
 </p>
 
 ## 📌 Visão geral
