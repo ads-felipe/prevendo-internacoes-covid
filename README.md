@@ -13,6 +13,8 @@ O projeto visa conduzir uma análise exploratória dos dados e construir modelos
 
 ## 📜 Estrutura do Projeto
 
+```
+
 ├── README.md 
 ├── requirements.txt
 ├── data
@@ -23,5 +25,7 @@ O projeto visa conduzir uma análise exploratória dos dados e construir modelos
 ├── reports
 │ └── figures
 │ └── Apresentação covid.pdf
+```
+
 
 ## 🚧 Próximos Passos
