@@ -5,27 +5,10 @@
 ## 📌 Visão geral
 O projeto visa conduzir uma análise exploratória dos dados e construir modelos de machine learning para identificar, no momento de coleta dos primeiros dados de saúde ao chegar no hospital, pacientes que precisarão de leito de UTI. Utilizamos técnicas avançadas de análise de dados, machine learning e balanceamento de dados para identificar padrões e anomalias.
 
-## 💼 Entendimento do Negócio
-
 ## 🤖 Modelagem e Avaliação
 
-## 📈 Insights e Conclusões
+![image](https://github.com/user-attachments/assets/2962dd8f-e1e9-482d-a768-2fe7598c796c)
 
-## 📜 Estrutura do Projeto
+![image](https://github.com/user-attachments/assets/e30db103-18d6-4b63-abf2-10f2972338d8)
 
-```
-
-├── README.md 
-├── requirements.txt
-├── data
-│ ├── processed
-│ └── raw
-├── models
-├── notebooks
-├── reports
-│ └── figures
-│ └── Apresentação covid.pdf
-```
-
-
-## 🚧 Próximos Passos
+Ao examinar os resultados obtidos conseguimos notar que há uma distinção sendo feita pelo modelo invés de só "chutar" que não precisará de UTI apenas devido ao fato do desbalanceamento da classe target.
